@@ -21,7 +21,7 @@ MYSQL_CONFIG = {
     "user": "avnadmin",
 
     # ĐIỀN PASSWORD AIVEN HIỆN TẠI CỦA EM Ở ĐÂY
-    "password": "PASSWORD_AIVEN_CUA_EM",
+    "password": "AVNS_zBDlzsF9I5fC-EdWcl0",
 
     "database": "defaultdb",
 }
